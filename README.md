@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello, my name is Guilherme Argentino and I am a Software Engineer. My job is to make large projects viable, for companies to become more competitive
-
 - 💬 Ask me about Programming/Code/Tech Stuff/Magic: The Gathering
 - 🌱 I’m currently learning Data Engineering
 - 😄 Pronouns: He/Him/His
