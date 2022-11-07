@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about Programming/Code/Tech Stuff/Magic: The Gathering
+- 💬 Ask me anything about Programming/Code/Tech Stuff/Magic: The Gathering
 - 🌱 I’m currently learning Data Engineering
 - 😄 Pronouns: He/Him/His
 
