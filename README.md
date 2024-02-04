@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 Ask me anything about Programming/Code/Tech Stuff/Magic: The Gathering
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning LLMs and Transformers
 - 😄 Pronouns: He/Him/His
 
 [![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
