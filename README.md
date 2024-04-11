@@ -3,6 +3,7 @@
 - 💬 Ask me anything about Programming/Code/Tech Stuff/Magic: The Gathering
 - 🌱 I’m currently learning LLMs and Transformers
 - 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on AI projects for Puulpo (https://app.puulpo.com) and AIpster (https://aipster.com)
 
 [![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-argentino/)
