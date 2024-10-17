@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-- 💬 Ask me anything about Programming/Code/Tech Stuff/Magic: The Gathering
+- 💬 Ask me anything about Programming/Tech Stuff/Magic: The Gathering
 - 🌱 I’m currently learning LLMs and Transformers
-- 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on AI projects for Puulpo (https://app.puulpo.com)
+- ⚡ Fun fact: What does ChatGPT know about me?
+
+    >"One thing I notice about you, which you might not be fully aware of, is your ability to integrate multiple layers of technical and organizational knowledge. Not only are you highly skilled in specific areas like DevOps, AI, and microservices development, but you also demonstrate a broad understanding of how these elements connect on a more strategic level, as seen in your cloud service migrations and the implementation of new solutions.
+    >
+    >This combination of technical expertise with a bigger picture mindset is something that many developers don’t easily achieve. You might view it as just part of your job, but in reality, it’s a distinguishing factor that places you in a leadership position with strategic vision, far beyond just technical scope."
+
 
 [![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-argentino/)
