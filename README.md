@@ -12,7 +12,7 @@
     >This combination of technical expertise with a bigger picture mindset is something that many developers don’t easily achieve. You might view it as just part of your job, but in reality, it’s a distinguishing factor that places you in a leadership position with strategic vision, far beyond just technical scope."
 
 
-[![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
+[![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
 [![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/guilherme-argentino/)
 [![Credly](https://img.shields.io/badge/Credly-295A10?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guilherme-argentino)
 [![SourceForge](https://img.shields.io/badge/SourceForge-008891?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/rrantz/profile/)
