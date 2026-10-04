@@ -12,10 +12,10 @@
     >You also have a strong aversion to superficial solutions, valuing autonomy, depth, and practical results. Your biggest challenge may not be acquiring more skills, but focusing and positioning the ones you already have. Rather than simply seeking the next job title, you seem to be looking for a professional identity that combines impact, freedom, technical depth, and the ability to influence and enable others."
 
 
-[![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
-[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/guilherme-argentino/)
-[![Credly](https://img.shields.io/badge/Credly-295A10?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guilherme-argentino)
-[![SourceForge](https://img.shields.io/badge/SourceForge-008891?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/rrantz/profile/)
+[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/2888549/guilherme-argentino)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/guilherme-argentino/)
+[![Credly](assets/credly.svg)](https://www.credly.com/users/guilherme-argentino)
+[![SourceForge](assets/sourceforge.svg)](https://sourceforge.net/u/rrantz/profile/)
 
 <!--
 **guilherme-argentino/guilherme-argentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
