@@ -4,7 +4,7 @@
 - 🔭 Designing LLM-powered agents integrated with cloud and real-time systems
 - 🌱 Building Secure Cloud-Native AI Systems
 - 👯 I’m looking to collaborate on AI infrastructure, agent orchestration, and cloud-native architectures
-- 🤔 I’m looking for help with improving high-performance virtualization and GPU workload isolation
+- 🖥️ Exploring high-performance virtualization and GPU workload isolation
 - ⚡ Fun fact: What does ChatGPT know about me?
 
     >"One thing I notice about you, which you might not be fully aware of, is your ability to integrate multiple layers of technical and organizational knowledge. Not only are you highly skilled in specific areas like DevOps, AI, and microservices development, but you also demonstrate a broad understanding of how these elements connect on a more strategic level, as seen in your cloud service migrations and the implementation of new solutions.
