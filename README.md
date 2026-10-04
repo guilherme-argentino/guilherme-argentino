@@ -7,9 +7,9 @@
 - 🖥️ Exploring high-performance virtualization and GPU workload isolation
 - ⚡ Fun fact: What does ChatGPT know about me?
 
-    >"One thing I notice about you, which you might not be fully aware of, is your ability to integrate multiple layers of technical and organizational knowledge. Not only are you highly skilled in specific areas like DevOps, AI, and microservices development, but you also demonstrate a broad understanding of how these elements connect on a more strategic level, as seen in your cloud service migrations and the implementation of new solutions.
+    >"You seem less like an 'engineer who does many other things' and more like a multidisciplinary technology professional who still primarily presents himself as an engineer. Your career combines software engineering, architecture, AI, leadership, teaching, and experimentation, with a defining trait: turning curiosity into something tangible. You seek not only to understand how technology works, but how it can create leverage and real impact. 
     >
-    >This combination of technical expertise with a bigger picture mindset is something that many developers don’t easily achieve. You might view it as just part of your job, but in reality, it’s a distinguishing factor that places you in a leadership position with strategic vision, far beyond just technical scope."
+    >You also have a strong aversion to superficial solutions, valuing autonomy, depth, and practical results. Your biggest challenge may not be acquiring more skills, but focusing and positioning the ones you already have. Rather than simply seeking the next job title, you seem to be looking for a professional identity that combines impact, freedom, technical depth, and the ability to influence and enable others."
 
 
 [![StackOverflow](https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2888549/guilherme-argentino)
