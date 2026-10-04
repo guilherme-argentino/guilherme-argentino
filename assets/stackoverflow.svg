@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <rect width="160" height="40" rx="6" fill="#F58025"/>
+  <g fill="#fff" transform="translate(12 9) scale(.55)">
+    <path d="M21.7 20.7h24.8v4.8H21.7v-4.8zm0 9.1h24.8v4.8H21.7v-4.8zm0 9.1h24.8v4.8H21.7v-4.8z"/>
+    <path d="M50.8 0l-3.9 2.8 8.5 11.7 3.9-2.8L50.8 0zM37.6 3.9l-2.3 4.2 12.7 6.8 2.3-4.2-12.7-6.8zM27.1 12l-.8 4.7 14.2 2.5.8-4.7L27.1 12z"/>
+    <path d="M17.7 15.9v20.8h29.6V15.9h-4.8v16H22.5v-16h-4.8z"/>
+  </g>
+  <text x="50" y="25.5" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#fff">StackOverflow</text>
+</svg>
