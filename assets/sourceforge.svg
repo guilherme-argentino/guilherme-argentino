@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="40" viewBox="0 0 145 40">
+  <rect width="145" height="40" rx="6" fill="#008891"/>
+  <g fill="#fff" transform="translate(12 9)">
+    <path d="M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10h5v-4h-5a6 6 0 1 1 6-6v10h4V10C20 4.5 15.5 0 10 0z"/>
+    <circle cx="10" cy="10" r="3"/>
+  </g>
+  <text x="40" y="25.5" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#fff">SourceForge</text>
+</svg>
